@@ -13,3 +13,6 @@ Feel free to explore my repositories to see some of my projects and the exciting
 - 💬 Ask me about contributions.
 - 📫 How to reach me: sharonachiengmasiga@gmail.com
 - ⚡ Fun fact: My code has a strong coffee dependency, just like its author. I'm powered by caffeine and clean syntax.
+
+### Skills
+C|Python|DevOps
