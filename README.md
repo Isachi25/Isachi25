@@ -15,4 +15,4 @@ Feel free to explore my repositories to see some of my projects and the exciting
 - ⚡ Fun fact: My code has a strong coffee dependency, just like its author. I'm powered by caffeine and clean syntax.
 
 ### Skills
-C|Python|DevOps
+C | Python | DevOps
