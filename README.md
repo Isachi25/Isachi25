@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sharon Masiga
+### Hi there 👋 My name is Sharon Masiga
 
 👩💻 A Software Engineer
 
