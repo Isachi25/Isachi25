@@ -1,7 +1,6 @@
 ### Hi there 👋 My name is Sharon Masiga
 
-👩💻 A passionate Software Engineering student at ALX-Africa, committed to honning my skills in the world of code. I am currently learning Javascript, and proficient in C, Python, SQL, HTML, and CSS languages. I enjoy crafting solutions and exploring the art of software development. My journey has also led me into the realm of DevOps, adding another layer to my technical expertise.
-Feel free to explore my repositories to see some of my projects and the exciting coding adventures I've embarked on. Let's connect and learn together! 
+👩💻I'm a Software Engineering student at ALX-Africa, dedicated to mastering my skill set. Currently focusing on Javascript, I'm skilled in C, Python, SQL, HTML, and CSS. I love problem-solving and delving into software development. Exploring DevOps has broadened my technical skills. Check out my repositories for projects and coding adventures. Let's connect and grow together! 
 
 - 🌍 I'm based in Nairobi, Kenya.
 - 🔭 I’m working on becoming a front-end developer.
