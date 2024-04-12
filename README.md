@@ -12,4 +12,4 @@
 - ⚡ Fun fact: My code has a strong coffee dependency, just like its author. I'm powered by caffeine and clean syntax.
 
 ### Skills
-C | Python | SQL | HTML | CSS | Javascript
+C | Python | SQL | HTML | CSS | JavaScript
