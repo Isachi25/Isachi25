@@ -5,7 +5,7 @@ I am a passionate Front-End Software Engineer, currently focused on web developm
 - 🌍 Based in Nairobi, Kenya.
 - 🔭 Experienced in  web development.
 - 🌱 Passionate about continuous learning and growth.
-- 👯 Open to collaborations on innovative projects.
+- 👯 Open to collaborating on innovative projects.
 - 🤔 I am on the lookout for new opportunities.
 - 💬 Ask me about contributions.
 - 📫 Reach out: sharonachiengmasiga@gmail.com
