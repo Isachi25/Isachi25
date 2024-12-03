@@ -6,7 +6,7 @@ I am a passionate Front-End Software Engineer, currently focused on web developm
 - 🔭 Experienced in  web development.
 - 🌱 Passionate about continuous learning and growth.
 - 👯 Open to collaborations on innovative projects.
-- 🤔 I am on the lookout for new opportunities to refine my skills.
+- 🤔 I am on the lookout for new opportunities.
 - 💬 Ask me about contributions.
 - 📫 Reach out: sharonachiengmasiga@gmail.com
 - ⚡ Fun fact: Powered by caffeine and clean code—my code runs on coffee!
