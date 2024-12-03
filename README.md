@@ -1,6 +1,6 @@
 ### My name is Sharon Masiga
 
-As a passionate Software Engineer specializing in front-end development, I'm excited to apply my skills and collaborate on meaningful projects that create impact.
+I am a passionate Front-End Software Engineer, currently focused on web development. I’m excited to apply my skills and collaborate on meaningful projects that create an impact.
 
 - 🌍 Based in Nairobi, Kenya.
 - 🔭 Experienced in  web development.
