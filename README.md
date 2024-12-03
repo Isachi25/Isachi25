@@ -1,15 +1,25 @@
-### Hi there 👋 My name is Sharon Masiga
+I’m a passionate Software Engineer specializing in front-end development. Having completed my specialization at ALX-Africa, I am excited to apply my skills and collaborate on meaningful projects that make an impact.
 
-👩💻I am a Software Engineering student at ALX-Africa, dedicated to mastering my skill set. Currently, I am in my final sprint of specializatiion as a front-end developer. Let's connect and grow together! 
+🌍 Based in Nairobi, Kenya
+🔭 Experienced in web Development
+🌱 Passionate about continuous learning and growth
+👯 Open to collaborations on innovative projects
+🤔 Always looking for opportunities to refine my skills and learn from others
+💬 Feel free to ask about contributions or any tech-related discussions
+📫 Reach out: sharonachiengmasiga@gmail.com
+⚡ Fun fact: Powered by caffeine and clean code—my code runs on coffee!
 
-- 🌍 I'm based in Nairobi, Kenya.
-- 🔭 I’m working on becoming a front-end developer.
-- 🌱 I’m currently learning everything about software engineering.
-- 👯 I’m looking forward to collaborate on interesting projects.
-- 🤔 I’m looking for help with mastering my skill set.
-- 💬 Ask me about contributions.
-- 📫 How to reach me: sharonachiengmasiga@gmail.com
-- ⚡ Fun fact: My code has a strong coffee dependency, just like its author. I'm powered by caffeine and clean syntax.
+Skills
+C | Python | HTML5 | CSS | JavaScript
 
-### Skills
-C | Python | HTML | CSS | JavaScript
+
+
+
+
+
+
+
+
+
+
+
